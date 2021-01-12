@@ -2,13 +2,6 @@
 
 this is the first file in this repository
 
-## Ipsum Below
+#Files for website
+1.HTML
 
-fdfsdfsdf
-dsfsdfsdfsdf
-dffsdfsdfsdf
-
-## ipsum below
-dfsdfsd
-dff
-sd
